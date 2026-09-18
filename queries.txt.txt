@@ -1,0 +1,29 @@
+1 ?- father(hussain, sukainah).
+true.
+
+2 ?- father(hussain, ahmed).
+false.
+
+3 ?- mother(rajaa, ali).
+true.
+
+4 ?- mother(rajaa, hussain).
+false.
+
+5 ?- sister(sukainah, abbas).
+true .
+
+6 ?- sister(rajaa, sukainah).
+false.
+
+7 ?- brother(ali, abbas).
+true .
+
+8 ?- brother(abbas, ahmed).
+false.
+
+9 ?- grandfather(abduallah, sukainah).
+true.
+
+10 ?- grandfather(abduallah, hussain).
+false.
